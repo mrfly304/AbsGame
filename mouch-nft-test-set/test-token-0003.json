@@ -1,24 +1,24 @@
 {
-  "name": "test #3 - GitHub Raw Metadata Display Check",
-  "description": "Mouch weekly winner NFT display test hosted on raw.githubusercontent.com for explorer crawlers.",
-  "image": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-preview.svg",
-  "image_url": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-preview.svg",
-  "thumbnail_url": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-preview.svg",
-  "animation_url": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-mini.gltf",
-  "content_url": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-mini.gltf",
+  "name": "test #3 - jsDelivr Metadata Display Check",
+  "description": "Mouch weekly winner NFT display test hosted on jsDelivr GitHub CDN for explorer crawlers.",
+  "image": "https://cdn.jsdelivr.net/gh/mrfly304/AbsGame@main/mouch-nft-test-set/mouch-trophy-preview.svg",
+  "image_url": "https://cdn.jsdelivr.net/gh/mrfly304/AbsGame@main/mouch-nft-test-set/mouch-trophy-preview.svg",
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/mrfly304/AbsGame@main/mouch-nft-test-set/mouch-trophy-preview.svg",
+  "animation_url": "https://cdn.jsdelivr.net/gh/mrfly304/AbsGame@main/mouch-nft-test-set/mouch-trophy-mini.gltf",
+  "content_url": "https://cdn.jsdelivr.net/gh/mrfly304/AbsGame@main/mouch-nft-test-set/mouch-trophy-mini.gltf",
   "external_url": "https://slots.spudonabstract.com/floppy-mouch",
   "attributes": [
     { "trait_type": "Collection", "value": "test" },
     { "trait_type": "Award Number", "value": "3" },
-    { "trait_type": "Display Test", "value": "GitHub raw metadata" },
+    { "trait_type": "Display Test", "value": "jsDelivr metadata" },
     { "trait_type": "Leaderboard", "value": "Mouch weekly #1" },
     { "display_type": "date", "trait_type": "Mint Test Date", "value": 1777996800 }
   ],
   "properties": {
     "category": "video",
     "files": [
-      { "uri": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-mini.gltf", "type": "model/gltf+json" },
-      { "uri": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-preview.svg", "type": "image/svg+xml" }
+      { "uri": "https://cdn.jsdelivr.net/gh/mrfly304/AbsGame@main/mouch-nft-test-set/mouch-trophy-mini.gltf", "type": "model/gltf+json" },
+      { "uri": "https://cdn.jsdelivr.net/gh/mrfly304/AbsGame@main/mouch-nft-test-set/mouch-trophy-preview.svg", "type": "image/svg+xml" }
     ]
   }
 }
