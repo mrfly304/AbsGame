@@ -1,0 +1,13 @@
+{
+  "name": "test #4 - Plain JPEG Display Check",
+  "description": "Mouch weekly winner NFT display test using the simplest explorer-compatible metadata shape with a normal JPEG image URL.",
+  "image": "https://placehold.co/1024x1024/jpeg?text=MOUCH%20WINNER%20%231",
+  "external_url": "https://slots.spudonabstract.com/floppy-mouch",
+  "attributes": [
+    { "trait_type": "Collection", "value": "test" },
+    { "trait_type": "Award Number", "value": "4" },
+    { "trait_type": "Display Test", "value": "Plain JPEG" },
+    { "trait_type": "Leaderboard", "value": "Mouch weekly #1" },
+    { "display_type": "date", "trait_type": "Mint Test Date", "value": 1777996800 }
+  ]
+}
