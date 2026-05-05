@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#0b1016"/>
+  <circle cx="600" cy="380" r="205" fill="#f7c948"/>
+  <path d="M410 865h380l-65-295H475z" fill="#d99f21"/>
+  <rect x="355" y="855" width="490" height="110" rx="24" fill="#f0b429"/>
+  <rect x="285" y="965" width="630" height="115" rx="22" fill="#8a5a1f"/>
+  <path d="M398 305c-92 7-160 66-160 146 0 84 75 148 175 148v-74c-57 0-101-32-101-74 0-39 38-70 91-74z" fill="#e5a923"/>
+  <path d="M802 305c92 7 160 66 160 146 0 84-75 148-175 148v-74c57 0 101-32 101-74 0-39-38-70-91-74z" fill="#e5a923"/>
+  <text x="600" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="700" fill="#111827">#1</text>
+  <text x="600" y="708" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" fill="#ffffff">MOUCH</text>
+  <text x="600" y="790" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#9debd8">WEEKLY WINNER</text>
+  <text x="600" y="1038" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#ffffff">TEST DISPLAY NFT</text>
+</svg>
