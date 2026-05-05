@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "description": "Mouch weekly winner NFT test collection metadata hosted on GitHub raw.",
+  "image": "https://raw.githubusercontent.com/mrfly304/AbsGame/main/mouch-nft-test-set/mouch-trophy-preview.svg",
+  "external_link": "https://slots.spudonabstract.com/floppy-mouch",
+  "seller_fee_basis_points": 0,
+  "fee_recipient": "0x0000000000000000000000000000000000000000"
+}
